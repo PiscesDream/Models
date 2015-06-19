@@ -6464,6 +6464,7 @@
 │   ├── som_mnist.py
 │   ├── som.py
 │   └── som_tsp.py
+├── status.txt
 ├── Tools
 │   ├── DigitalPloting
 │   │   ├── ann.py
@@ -6489,4 +6490,4 @@
 │           └── stopwords.txt
 └── tree.txt
 
-97 directories, 6392 files
+97 directories, 6393 files

@@ -6,6 +6,7 @@ Changes to be committed:
   (use "git rm --cached <file>..." to unstage)
 
 	new file:   .gitignore
+	new file:   .status.txt.swp
 	new file:   ACO_for_fun/aco.py
 	new file:   ACO_for_fun/plot.py
 	new file:   ACO_for_fun/test.py
@@ -38,67 +39,6 @@ Changes to be committed:
 	new file:   DeepLearning/autoencoder.py
 	new file:   DeepLearning/plot.py
 	new file:   DeepLearning/plot_kl.py
-	new file:   DeepLearning/sparse_coding/octave/___sparseAutoencoderCost.m
-	new file:   DeepLearning/sparse_coding/octave/__sparseAutoencoderCost.m
-	new file:   DeepLearning/sparse_coding/octave/checkNumericalGradient.m
-	new file:   DeepLearning/sparse_coding/octave/computeNumericalGradient.m
-	new file:   DeepLearning/sparse_coding/octave/display_network.m
-	new file:   DeepLearning/sparse_coding/octave/fmincg.m
-	new file:   DeepLearning/sparse_coding/octave/here.ps
-	new file:   DeepLearning/sparse_coding/octave/initializeParameters.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/ArmijoBacktrack.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/WolfeLineSearch.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/autoGrad.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/autoHess.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/autoHv.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/autoTensor.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/callOutput.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/conjGrad.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/dampedUpdate.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/example_minFunc.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/example_minFunc_LR.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/isLegal.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/lbfgs.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/lbfgsC.c
-	new file:   DeepLearning/sparse_coding/octave/minFunc/lbfgsC.mexa64
-	new file:   DeepLearning/sparse_coding/octave/minFunc/lbfgsC.mexglx
-	new file:   DeepLearning/sparse_coding/octave/minFunc/lbfgsC.mexmac
-	new file:   DeepLearning/sparse_coding/octave/minFunc/lbfgsC.mexmaci
-	new file:   DeepLearning/sparse_coding/octave/minFunc/lbfgsC.mexmaci64
-	new file:   DeepLearning/sparse_coding/octave/minFunc/lbfgsC.mexw32
-	new file:   DeepLearning/sparse_coding/octave/minFunc/lbfgsC.mexw64
-	new file:   DeepLearning/sparse_coding/octave/minFunc/lbfgsUpdate.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/logistic/LogisticDiagPrecond.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/logistic/LogisticHv.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/logistic/LogisticLoss.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/logistic/mexutil.c
-	new file:   DeepLearning/sparse_coding/octave/minFunc/logistic/mexutil.h
-	new file:   DeepLearning/sparse_coding/octave/minFunc/logistic/mylogsumexp.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/logistic/repmatC.c
-	new file:   DeepLearning/sparse_coding/octave/minFunc/logistic/repmatC.dll
-	new file:   DeepLearning/sparse_coding/octave/minFunc/logistic/repmatC.mexglx
-	new file:   DeepLearning/sparse_coding/octave/minFunc/logistic/repmatC.mexmac
-	new file:   DeepLearning/sparse_coding/octave/minFunc/mchol.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/mcholC.c
-	new file:   DeepLearning/sparse_coding/octave/minFunc/mcholC.mexmaci64
-	new file:   DeepLearning/sparse_coding/octave/minFunc/mcholC.mexw32
-	new file:   DeepLearning/sparse_coding/octave/minFunc/mcholC.mexw64
-	new file:   DeepLearning/sparse_coding/octave/minFunc/mcholinc.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/minFunc.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/minFunc_processInputOptions.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/polyinterp.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/precondDiag.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/precondTriu.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/precondTriuDiag.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/rosenbrock.m
-	new file:   DeepLearning/sparse_coding/octave/minFunc/taylorModel.m
-	new file:   DeepLearning/sparse_coding/octave/octave-core
-	new file:   DeepLearning/sparse_coding/octave/other_sparseAutoencoderCost.m
-	new file:   DeepLearning/sparse_coding/octave/sampleIMAGES.m
-	new file:   DeepLearning/sparse_coding/octave/sparseAutoencoderCost.m
-	new file:   DeepLearning/sparse_coding/octave/test.m
-	new file:   DeepLearning/sparse_coding/octave/test2.m
-	new file:   DeepLearning/sparse_coding/octave/train.m
 	new file:   DeepLearning/sparse_coding/read_and_plot.py
 	new file:   DeepLearning/sparse_coding/sparse_encoder.py
 	new file:   DeepLearning/test.py
@@ -160,14 +100,6 @@ Changes to be committed:
 	new file:   ann/lfw_liked_mnist_ann.py
 	new file:   ann/mgk_ann.py
 	new file:   ann/mnist_ann.py
-	new file:   cnn/.idea/.name
-	new file:   cnn/.idea/cnn.iml
-	new file:   cnn/.idea/encodings.xml
-	new file:   cnn/.idea/misc.xml
-	new file:   cnn/.idea/modules.xml
-	new file:   cnn/.idea/scopes/scope_settings.xml
-	new file:   cnn/.idea/vcs.xml
-	new file:   cnn/.idea/workspace.xml
 	new file:   cnn/20140614_cnn.py
 	new file:   cnn/cifar10_cnn.py
 	new file:   cnn/cnn.py
