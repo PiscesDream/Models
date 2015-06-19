@@ -1,0 +1,3 @@
+20140515
+    failure:
+        (28, 28) * 2 can't be convoluted
